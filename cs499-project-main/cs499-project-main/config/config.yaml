@@ -1,0 +1,8 @@
+---
+model: "facebook/wav2vec2-base-960h"
+alpha: 5.e-3
+epsilon: 0.3
+iterations: 300
+target: "SEATTLE CENTER SKYHAWK TWO THREE ZULU PIREP TEMPERATURE MINUS FOUR CLOUD BASES THREE THOUSAND LIGHT RIME ICE ACCUMULATION"
+wandb:
+  enabled: False
